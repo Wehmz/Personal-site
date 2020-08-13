@@ -1,0 +1,24 @@
+.cloud1{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.cloud2{
+  width:100px;
+  height: 100px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-container{
+  background-color: #b2ebf2;
+  position: relative;
+  margin: 50px;
+}
+body{
+display:block;
+margin: 0px;
+text-align: center;
+}
